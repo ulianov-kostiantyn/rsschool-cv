@@ -19,6 +19,14 @@ programming and ready to design and create new features.
 * Platforms: Windows, Linux;
 * Business development: ITIL.
 ## Code Example
+```
+function highAndLow(numbers){
+  let nums = numbers.split(' ');
+  let max = Math.max(...nums);
+  let min = Math.min(...nums);
+  return max + ' ' + min;
+}
+```
 ## Experience
 **Customer Service Representative** / Majorel Polska Kraków, Poland
 Since March 2021
@@ -58,10 +66,11 @@ From September 2020 to December 2020
 * OOP principles;
 * npm, Babel, Browserify, Webpack;
 * React.js + Redux.
-====
+********* 
 Python and Django Full Course / Jose Portilla (lector), udemy.com
 From February 2020 to May 2020
 * Python 3.7;
 * Django 1.11;
 * PostreSQL
 ## English
+B2 - use English at work almost every day
